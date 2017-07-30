@@ -1,0 +1,23 @@
+﻿  bst.cpp
+c:\cygwin\home\daniel\c++\deepwinkelman2\deepwinkelman2\node.h(163): warning C4091: 'typedef ': ignored on left of 'Node::TreeOptions' when no variable is declared
+  dw.cpp
+c:\cygwin\home\daniel\c++\deepwinkelman2\deepwinkelman2\node.h(163): warning C4091: 'typedef ': ignored on left of 'Node::TreeOptions' when no variable is declared
+  node.cpp
+c:\cygwin\home\daniel\c++\deepwinkelman2\deepwinkelman2\node.h(163): warning C4091: 'typedef ': ignored on left of 'Node::TreeOptions' when no variable is declared
+node.cpp(42): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+node.cpp(56): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+node.cpp(62): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+node.cpp(69): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  nodeheap.cpp
+c:\cygwin\home\daniel\c++\deepwinkelman2\deepwinkelman2\node.h(163): warning C4091: 'typedef ': ignored on left of 'Node::TreeOptions' when no variable is declared
+  nodepointer.cpp
+c:\cygwin\home\daniel\c++\deepwinkelman2\deepwinkelman2\node.h(163): warning C4091: 'typedef ': ignored on left of 'Node::TreeOptions' when no variable is declared
+  print.cpp
+c:\cygwin\home\daniel\c++\deepwinkelman2\deepwinkelman2\node.h(163): warning C4091: 'typedef ': ignored on left of 'Node::TreeOptions' when no variable is declared
+  Generating code
+  181 of 807 functions (22.4%) were compiled, the rest were copied from previous compilation.
+    88 functions were new in current compilation
+    64 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DeepWinkelman2.vcxproj -> C:\Cygwin\home\Daniel\c++\DeepWinkelman2\DeepWinkelman2\x64\Release\DeepWinkelman2.exe
+  DeepWinkelman2.vcxproj -> C:\Cygwin\home\Daniel\c++\DeepWinkelman2\DeepWinkelman2\x64\Release\DeepWinkelman2.pdb (Full PDB)

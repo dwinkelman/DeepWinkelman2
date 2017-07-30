@@ -1,0 +1,17 @@
+﻿  node.cpp
+c:\cygwin\home\daniel\c++\deepwinkelman2\deepwinkelman2\node.h(163): warning C4091: 'typedef ': ignored on left of 'Node::TreeOptions' when no variable is declared
+  Generating Code...
+  Compiling...
+  print.cpp
+c:\cygwin\home\daniel\c++\deepwinkelman2\deepwinkelman2\node.h(163): warning C4091: 'typedef ': ignored on left of 'Node::TreeOptions' when no variable is declared
+  nodepointer.cpp
+c:\cygwin\home\daniel\c++\deepwinkelman2\deepwinkelman2\node.h(163): warning C4091: 'typedef ': ignored on left of 'Node::TreeOptions' when no variable is declared
+  nodeheap.cpp
+c:\cygwin\home\daniel\c++\deepwinkelman2\deepwinkelman2\node.h(163): warning C4091: 'typedef ': ignored on left of 'Node::TreeOptions' when no variable is declared
+  dw.cpp
+c:\cygwin\home\daniel\c++\deepwinkelman2\deepwinkelman2\node.h(163): warning C4091: 'typedef ': ignored on left of 'Node::TreeOptions' when no variable is declared
+  bst.cpp
+c:\cygwin\home\daniel\c++\deepwinkelman2\deepwinkelman2\node.h(163): warning C4091: 'typedef ': ignored on left of 'Node::TreeOptions' when no variable is declared
+  Generating Code...
+  DeepWinkelman2.vcxproj -> C:\Cygwin\home\Daniel\c++\DeepWinkelman2\DeepWinkelman2\Debug\DeepWinkelman2.exe
+  DeepWinkelman2.vcxproj -> C:\Cygwin\home\Daniel\c++\DeepWinkelman2\DeepWinkelman2\Debug\DeepWinkelman2.pdb (Full PDB)
